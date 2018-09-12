@@ -4,7 +4,7 @@ Developed using the Datasheet at
 https://www.infineon.com/dgdl/Infineon-BTT6020-1EKA-DS-v01_01-EN.pdf?fileId=5546d4625a888733015aa390dd8a0fdc
 
 */
-
+#include "Arduino.h"
 #include "BTT6020-1EKA.h"
 
 // Constants

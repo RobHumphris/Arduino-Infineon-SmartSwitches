@@ -1,3 +1,4 @@
+#include "Arduino.h"
 #include "BTT60x0-xEKA.h"
 
 BTT60X0_XEKA::BTT60X0_XEKA(byte diagnosticEnablePin)

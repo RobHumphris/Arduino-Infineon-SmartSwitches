@@ -1,3 +1,4 @@
+#include "Arduino.h"
 #include "BTT6030-2EKA.h"
 
 BTT6030_2EKA::BTT6030_2EKA(byte input0ChannelPin, byte input1ChannelPin, byte diagnosticEnablePin, byte dignosticSelectPin, byte sensePin)
